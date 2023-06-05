@@ -12,4 +12,3 @@ maximo = y * h
 
 # Imprime o valor máximo
 print(int(maximo))
-

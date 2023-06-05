@@ -13,4 +13,4 @@ ticks_total = ticks_dia * d * 9
 
 ticks_por_casa = ticks_total // c # média de ticks por casa
 
-print(ticks_por_casa) 
+print(ticks_por_casa)
