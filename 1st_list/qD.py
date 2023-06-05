@@ -11,6 +11,6 @@ ticks_dia = 12000 # considerando apenas metade do dia
 # ticks totais = número de ticks por dia X número de dias jogados * quantos dias do jogo em um dia real (180 minutos)
 ticks_total = ticks_dia * d * 9
 
-ticks_por_casa = ticks_total // c
+ticks_por_casa = ticks_total // c # média de ticks por casa
 
 print(ticks_por_casa)
