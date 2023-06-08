@@ -1,7 +1,7 @@
-a = int(input()) # Arthur
-l = int(input()) # Luiz
-p = int(input()) # Pedro
-h = int(input()) # Duração da competição (em horas)
+a = int(input())  # Arthur
+l = int(input())  # Luiz
+p = int(input())  # Pedro
+h = int(input())  # Duração da competição (em horas)
 
 # Calculando o valor máximo
 x = (a + l + abs(a - l))/2
